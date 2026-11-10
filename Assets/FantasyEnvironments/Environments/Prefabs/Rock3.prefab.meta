@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 94a3318e328358d4095f16b054b14180
+labels:
+- Terrain
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103573
+  packageName: Fantasy landscape
+  packageVersion: 2.0
+  assetPath: Assets/FantasyEnvironments/Environments/Prefabs/Rock3.prefab
+  uploadId: 647578
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

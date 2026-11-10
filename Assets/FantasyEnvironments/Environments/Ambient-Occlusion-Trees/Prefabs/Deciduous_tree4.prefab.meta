@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 31503e1a3ea2c3049b62e31c4c6c9397
+labels:
+- Terrain
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103573
+  packageName: Fantasy landscape
+  packageVersion: 2.0
+  assetPath: Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Deciduous_tree4.prefab
+  uploadId: 647578
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

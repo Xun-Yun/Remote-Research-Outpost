@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5c11b6a454fa5fd458d541957f1de507
+labels:
+- Terrain
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103573
+  packageName: Fantasy landscape
+  packageVersion: 2.0
+  assetPath: Assets/FantasyEnvironments/Environments/Prefabs/Stone3.prefab
+  uploadId: 647578
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
